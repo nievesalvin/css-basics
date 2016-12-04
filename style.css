@@ -40,4 +40,23 @@ code {
 .snippet {
     background-color: lightgray;
 }
+#font-practice{
+    font-family: Arial;
+    font-style: italic;
+    font-size: 16px;
+    color: green;
+}
+a:link{
+    color:green;
+    }
+a:hover{
+    color:red;
+}
+a:visited{
+    color:black;
+}
+a:active{
+    color:blue;
+}
+
 
